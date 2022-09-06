@@ -4,5 +4,5 @@
 Programming exercises performed on the Raspberry Pi platform
 
 ## Equipment:
-Raspberry Pi 3 Model B (RPi3) board
+Raspberry Pi 3 Model B (RPi3) board <br/>
 Sense HAT add-on display module/board
