@@ -1,4 +1,4 @@
 # CZ1003 Intro to computational thinking
-Date: 2019.11
+2022.06 @ Nanyang Technological University
 ## Content
 lab exercises on Rpi 3 platform
